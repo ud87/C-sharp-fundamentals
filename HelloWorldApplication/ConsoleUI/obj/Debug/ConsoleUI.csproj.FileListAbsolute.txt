@@ -1,0 +1,7 @@
+D:\Programming\C sharp Projects\Csharp Fundamentals\HelloWorldApplication\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\Programming\C sharp Projects\Csharp Fundamentals\HelloWorldApplication\ConsoleUI\bin\Debug\ConsoleUI.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\HelloWorldApplication\ConsoleUI\bin\Debug\ConsoleUI.pdb
+D:\Programming\C sharp Projects\Csharp Fundamentals\HelloWorldApplication\ConsoleUI\obj\Debug\ConsoleUI.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\HelloWorldApplication\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\HelloWorldApplication\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\HelloWorldApplication\ConsoleUI\obj\Debug\ConsoleUI.pdb
