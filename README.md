@@ -13,3 +13,11 @@ This repo is created to track and record learning C#
 - Strings (Learn about escaping characters, string literal, string interpolation)
 - Difference between double and decimal 
 - Identify when to use int and string
+
+## Module02Lesson02VariablesExcercise
+This app was created to implement learning from Module02Lesson02Variables and uses following C# features
+- Use Console.Write to output message
+- Use Console.ReadLine() to collect data from user and assign it to variable
+- Use bool and while loop to collect age data from user 
+- Use int.TryParse() method to convert string into integer age
+- Use Console.Clear() to clear console screen
