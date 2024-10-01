@@ -28,3 +28,7 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Learn about switch statements
 - Learn about .ToLower() method
 
+## Module02Lesson03ConditionalsExcercise
+- Practise if else conditional statements
+- Console app to welcome Tim Corey as professor and others as students
+
