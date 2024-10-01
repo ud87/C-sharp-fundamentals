@@ -36,3 +36,8 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Convert string to int
 - Learn how to use int.TryParse and int.Parse methods
 - Combining int.TryParse methods with if/else conditions
+
+## Module02Lesson04ConversionExcercise
+- Console app asks for user age and calculates how old user was in the year 2000
+- While loop is used to ensure correct age is entered by user
+- if / else statement is used to display results
