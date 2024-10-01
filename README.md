@@ -21,3 +21,10 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Use bool and while loop to collect age data from user 
 - Use int.TryParse() method to convert string into integer age
 - Use Console.Clear() to clear console screen
+
+## Module02Lesson03Conditionals
+- Learn about if / else if / else conditonal statements
+- Learn about &&, ||, == operators
+- Learn about switch statements
+- Learn about .ToLower() method
+
