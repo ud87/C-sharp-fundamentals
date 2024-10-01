@@ -32,3 +32,7 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Practise if else conditional statements
 - Console app to welcome Tim Corey as professor and others as students
 
+## Module02Lesson04Conversion
+- Convert string to int
+- Learn how to use int.TryParse and int.Parse methods
+- Combining int.TryParse methods with if/else conditions
