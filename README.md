@@ -47,3 +47,13 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Convert string to int
 - Perform subtraction operation on string interpolation
 - Practise writing pseudocode
+
+## Module02Lesson06Loops
+- While Loop (runs 0 or more times)
+- Do while loop (runs 1 or more times)
+- Looping is important to ensure user enters correct data or to perform any kind of validation
+
+## Module02Lesson06LoopsExcercise
+- Ask for the users name. If users name is Tim, say "Hello Professor" otherwise, say hi username until they type exit
+- Do while loop is chosen as the code needs to run at least once
+- If / else statemennt is used inside loop for conditional check
