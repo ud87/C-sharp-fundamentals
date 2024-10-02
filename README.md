@@ -41,3 +41,9 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Console app asks for user age and calculates how old user was in the year 2000
 - While loop is used to ensure correct age is entered by user
 - if / else statement is used to display results
+
+## HomeWorkConditionalsConversion
+- Mini project to practise if/else conditon
+- Convert string to int
+- Perform subtraction operation on string interpolation
+- Practise writing pseudocode
