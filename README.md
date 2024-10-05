@@ -68,3 +68,16 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Console app to create an array with three names
 - User selects number 1 to 3 and respective name is displayed based on first, second and third name in an array
 - Learn how to use and access array
+
+## Module02Lesson08Lists
+- how to create lists
+- advantages of lists
+- how to add data to lists
+- how to remove elements from lists
+- how to replace elements from lists
+
+## Module02Lesson08ListsExcercise
+- Console app to add students until there are no more students to add
+- uses while loop to check if user wants to add students or not
+- uses while loop to collect correct data format
+- adds student names to the list if the user wants to add student to list
