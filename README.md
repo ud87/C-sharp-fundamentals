@@ -57,3 +57,14 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Ask for the users name. If users name is Tim, say "Hello Professor" otherwise, say hi username until they type exit
 - Do while loop is chosen as the code needs to run at least once
 - If / else statemennt is used inside loop for conditional check
+
+## Module02Lesson07Arrays
+- Create Array
+- Different ways of creating arrays
+- Accessing array element 
+- Array length and indexing
+
+## Module02Lesson07ArraysExcercise
+- Console app to create an array with three names
+- User selects number 1 to 3 and respective name is displayed based on first, second and third name in an array
+- Learn how to use and access array
