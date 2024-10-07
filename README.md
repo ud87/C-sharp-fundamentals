@@ -81,3 +81,15 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - uses while loop to check if user wants to add students or not
 - uses while loop to collect correct data format
 - adds student names to the list if the user wants to add student to list
+
+## Module02Lesson09Dictionary
+- How to create key value pairs
+- How to check if key is present
+- How to access value of key
+- Keys must be unique, if same then it will overwrite previous values
+
+## Module02Lesson09DictionaryExcercise
+- Console app: Create a dictionary with id and name
+- ask user for id and display the name
+- check the id is correct, a number and is within range
+- re-prompt user for id if id is incorrect
