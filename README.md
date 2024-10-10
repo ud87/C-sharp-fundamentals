@@ -94,13 +94,23 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - check the id is correct, a number and is within range
 - re-prompt user for id if id is incorrect
 
-## Module02Lession10ForLoop
+## Module02Lesson10ForLoop
 - How to use for loop 
 - How to increase and decrease for loop 
 - How to use for loops with arrays and lists
 
-## Module02Lession10ForLoopExcercise
+## Module02Lesson10ForLoopExcercise
 - Console App that asks username seperated by commas
 - Regex set up to remove all whitespaces, tabs
 - Split user input and assign it to an array
 - Print the contents of array using for loop
+
+## Module02Lesson11ForEach
+- How to use forEach
+- When to use forEach
+- Use forEach as much as possible with lists, arrays
+
+## Module02Lesson11ForEachExcercise
+- Console App that asks firstname
+- adds user input into list
+- then displays the user input using foreach loop
