@@ -114,3 +114,15 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Console App that asks firstname
 - adds user input into list
 - then displays the user input using foreach loop
+
+## Module02Lesson12Methods
+- Learn how to use methods
+- why methods are important
+- Concept of DRY Do not repeat yourself
+- Global variables
+- How to create and call methods
+
+## Module02Lesson12MethodsExcercise
+- Console app to create two methods
+- One method asks user for username
+- Another method welcomes user by printing "Hello username"
