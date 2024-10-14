@@ -126,3 +126,9 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Console app to create two methods
 - One method asks user for username
 - Another method welcomes user by printing "Hello username"
+
+## UsingBreakPointsDemo
+- Create breakpoint by clicking the grey area
+- Use locals to watch the existing variables
+- Create breakpoints at different points
+- Remove breakpoints by clicking on the breakpoint or Debug > Toggle Breakpoint
