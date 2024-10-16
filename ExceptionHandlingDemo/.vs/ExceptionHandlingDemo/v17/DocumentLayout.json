@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\ExceptionHandlingDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{50804000-B206-478B-830E-42F0021EF1F1}|ConsoleUI\\ConsoleUI.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\exceptionhandlingdemo\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50804000-B206-478B-830E-42F0021EF1F1}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\ExceptionHandlingDemo\\ConsoleUI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleUI\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
               "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\ExceptionHandlingDemo\\ConsoleUI\\Program.cs",
               "RelativeToolTip": "ConsoleUI\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T22:07:49.335Z",
               "EditorCaption": ""

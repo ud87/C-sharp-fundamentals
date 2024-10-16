@@ -132,3 +132,8 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Use locals to watch the existing variables
 - Create breakpoints at different points
 - Remove breakpoints by clicking on the breakpoint or Debug > Toggle Breakpoint
+
+## ExceptionHandlingDemo
+- How to handle exception using try and catch
+- Try tries to execute a code
+- catch catches and error and throws exception
