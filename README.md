@@ -137,3 +137,13 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - How to handle exception using try and catch
 - Try tries to execute a code
 - catch catches and error and throws exception
+
+## AdvancedExceptionDemo
+- Different types of exception
+- Use try catch 
+
+## AdvancedBreakpointsDemo
+- Deal with advanced breakpoints
+- Add conditions to breakpoints
+- Add action and log to breakpoints
+- import and export exceptions
