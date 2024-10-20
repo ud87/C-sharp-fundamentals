@@ -147,3 +147,13 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Add conditions to breakpoints
 - Add action and log to breakpoints
 - import and export exceptions
+
+## Module04StaticClassesDemo
+- how to create static classes
+- importance of public classes
+- why static classes are important
+- use class files to seperate code 
+
+## Module04StaticClassesDemoExcercise
+- Create a console app with static class that handles calculations
+- Create different classes
