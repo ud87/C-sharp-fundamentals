@@ -157,3 +157,14 @@ This app was created to implement learning from Module02Lesson02Variables and us
 ## Module04StaticClassesDemoExcercise
 - Create a console app with static class that handles calculations
 - Create different classes
+
+## Module04InstantiatedClassDemo
+- Instantiate class
+- Purpose of instantiating data
+
+## Module04InstantiatedClassDemoExcercise
+- Console app that has a person class and an address class
+- Instantiate class
+- Create class
+- Use class in method
+
