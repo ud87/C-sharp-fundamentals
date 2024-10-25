@@ -168,3 +168,12 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Create class
 - Use class in method
 
+## Module04PropertyTypesDemo
+- Difference between auto prop and full prop
+- Use full prop when data needs to be masked or filtered/checked
+- As a default always use auto props
+
+## Module04PropertyTypesDemoExcercise
+- Console app that has properties for street address, city, state and zip code
+- Then add a FullAddress property that is read-only
+
