@@ -1,0 +1,6 @@
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module04ClassLibraryDemo\DemoLibrary\bin\Debug\DemoLibrary.dll
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module04ClassLibraryDemo\DemoLibrary\bin\Debug\DemoLibrary.pdb
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module04ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module04ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module04ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.dll
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module04ClassLibraryDemo\DemoLibrary\obj\Debug\DemoLibrary.pdb
