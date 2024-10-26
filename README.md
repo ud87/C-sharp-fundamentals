@@ -177,3 +177,9 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Console app that has properties for street address, city, state and zip code
 - Then add a FullAddress property that is read-only
 
+## Module04ClassLibraryDemo
+- Importance of class library
+- how to reference class library to user interface
+- put as much code as possible into class library
+- do not put user interface code to class library (for e.g. console.writeline and readline etc)
+
