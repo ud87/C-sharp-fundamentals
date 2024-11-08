@@ -20,4 +20,5 @@ namespace BattleshipLiteLibrary.Models
 If we need to change UI then we can use class library
 Class library creates a dll and pdb (helps with debugging)
  Library cannot be directly run as it does not have a UI
+put in all code that is not 
  */
