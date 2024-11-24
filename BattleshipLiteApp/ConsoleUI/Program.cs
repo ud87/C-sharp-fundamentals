@@ -70,9 +70,9 @@ namespace BattleshipLite
                 //Asks for a shot (we ask for "B2")
                 string shot = AskForShot();
                 //Determine what row and column that is - split it apart
-                (row, column) = GameLogic.SplitShotIntoRowAndColumn(shot);
+                (row, column) = GameLogic.SplitShotIntoRowAndColumn(shot);         
                 //Determine if that is a valid shot
-                isValidShot = GameLogic.ValidateShot(activePlayer, row, column);
+                 isValidShot = GameLogic.ValidateShot(activePlayer, row, column);
                 //Go back to the beginning if not a valid shot
                 if (isValidShot == false)
                 {
@@ -83,13 +83,15 @@ namespace BattleshipLite
 
             //Determine shot results
             bool isAHit = GameLogic.IdentifyShotResult(opponent, row, column);
+
             //Record results
+            GameLogic.MarkShotResult(activePlayer, row, column, isAHit);
         }
 
         private static string AskForShot()
         {
-            Console.Write("Please enter your shot selection: ");
-            string output = Console.ReadLine();
+            Console.Write("\nPlease enter your shot selection: ");
+             string output = Console.ReadLine();
 
             return output;
         }
@@ -164,10 +166,13 @@ namespace BattleshipLite
 
         private static void PlaceShip(PlayerInfoModel model)
         {
+            Console.WriteLine($"Initial count: {model.ShipLocations.Count}"); //
             do
             {
                 Console.Write($"Where do you want to place ship number {model.ShipLocations.Count + 1}: ");
                 string location = Console.ReadLine();
+                
+                Console.WriteLine($"count: {model.ShipLocations.Count}"); //
 
                 bool isValidLocation = GameLogic.PlaceShip(model, location);
 

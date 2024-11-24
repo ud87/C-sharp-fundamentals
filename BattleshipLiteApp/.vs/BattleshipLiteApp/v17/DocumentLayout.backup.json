@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9C752D05-AB7A-4DC7-B4B7-50C6784FF810}|ConsoleUI\\BattleshipLite.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\battleshipliteapp\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B5F27B5B-3A36-484F-BD5F-F51644FFF398}|BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\battleshipliteapp\\battleshiplitelibrary\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F27B5B-3A36-484F-BD5F-F51644FFF398}|BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj|solutionrelative:battleshiplitelibrary\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5F27B5B-3A36-484F-BD5F-F51644FFF398}|BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj|D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\battleshiplitelibrary\\models\\gridspotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5F27B5B-3A36-484F-BD5F-F51644FFF398}|BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj|solutionrelative:battleshiplitelibrary\\models\\gridspotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C752D05-AB7A-4DC7-B4B7-50C6784FF810}|ConsoleUI\\BattleshipLite.csproj|D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9C752D05-AB7A-4DC7-B4B7-50C6784FF810}|ConsoleUI\\BattleshipLite.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B5F27B5B-3A36-484F-BD5F-F51644FFF398}|BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj|D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\battleshiplitelibrary\\models\\playerinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B5F27B5B-3A36-484F-BD5F-F51644FFF398}|BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj|solutionrelative:battleshiplitelibrary\\models\\playerinfomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F27B5B-3A36-484F-BD5F-F51644FFF398}|BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj|D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\battleshiplitelibrary\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F27B5B-3A36-484F-BD5F-F51644FFF398}|BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj|solutionrelative:battleshiplitelibrary\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5F27B5B-3A36-484F-BD5F-F51644FFF398}|BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj|D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\battleshiplitelibrary\\models\\gridspotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B5F27B5B-3A36-484F-BD5F-F51644FFF398}|BattleshipLiteLibrary\\BattleshipLiteLibrary.csproj|solutionrelative:battleshiplitelibrary\\models\\gridspotmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 242,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Enums.cs",
-              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\BattleshipLiteLibrary\\Models\\Enums.cs",
-              "RelativeDocumentMoniker": "BattleshipLiteLibrary\\Models\\Enums.cs",
-              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\BattleshipLiteLibrary\\Models\\Enums.cs",
-              "RelativeToolTip": "BattleshipLiteLibrary\\Models\\Enums.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\BattleshipLiteLibrary\\GameLogic.cs",
+              "RelativeDocumentMoniker": "BattleshipLiteLibrary\\GameLogic.cs",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\BattleshipLiteLibrary\\GameLogic.cs",
+              "RelativeToolTip": "BattleshipLiteLibrary\\GameLogic.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAADgv2kAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T22:55:42.718Z"
+              "WhenOpened": "2024-11-13T21:13:17.12Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PlayerInfoModel.cs",
               "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\BattleshipLiteLibrary\\Models\\PlayerInfoModel.cs",
               "RelativeDocumentMoniker": "BattleshipLiteLibrary\\Models\\PlayerInfoModel.cs",
               "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\BattleshipLiteLibrary\\Models\\PlayerInfoModel.cs",
               "RelativeToolTip": "BattleshipLiteLibrary\\Models\\PlayerInfoModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-11T22:51:22.385Z"
+              "WhenOpened": "2024-11-11T22:51:22.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\ConsoleUI\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
               "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\ConsoleUI\\Program.cs",
               "RelativeToolTip": "ConsoleUI\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCwAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAIoAAAAAAAAAAADgv7AAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T20:49:04.788Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "GridSpotModel.cs",
               "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\BattleshipLiteLibrary\\Models\\GridSpotModel.cs",
               "RelativeDocumentMoniker": "BattleshipLiteLibrary\\Models\\GridSpotModel.cs",
               "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\BattleshipLiteApp\\BattleshipLiteLibrary\\Models\\GridSpotModel.cs",
               "RelativeToolTip": "BattleshipLiteLibrary\\Models\\GridSpotModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-10T22:29:10.55Z"
+              "WhenOpened": "2024-11-10T22:29:10.55Z",
+              "EditorCaption": ""
             }
           ]
         }

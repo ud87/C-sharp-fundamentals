@@ -12,6 +12,7 @@ namespace BattleshipLiteLibrary.Models
         public string SpotLetter {  get; set; }
         public int SpotNumber { get; set; }
         public GridSpotStatus Status { get; set; } = GridSpotStatus.Empty; //by default we want every spot to be empty
+        public string ShipLocation { get; set; }
     }
 }
 
