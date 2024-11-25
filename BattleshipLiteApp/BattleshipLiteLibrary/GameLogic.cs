@@ -105,7 +105,12 @@ namespace BattleshipLiteLibrary
 
         public static bool PlayerStillActive(PlayerInfoModel opponent)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+            if (opponent.ShipLocations.Count > 0)
+            {
+                return true;
+            }
+            else return false;
         }
 
         public static int GetShotCount(PlayerInfoModel winner)
@@ -147,6 +152,7 @@ namespace BattleshipLiteLibrary
                 //Console.WriteLine($"Shot Location is {shotLocation}");
                 if (item.ShipLocation == shotLocation)
                 {
+                    opponent.ShipLocations.Remove(item);   //if hit, then remove item
                     return true;
                 }
             }
@@ -155,7 +161,26 @@ namespace BattleshipLiteLibrary
 
         public static void MarkShotResult(PlayerInfoModel activePlayer, string row, int column, bool isAHit)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+
+            foreach (var item in activePlayer.ShotGrid)
+            {
+                if (isAHit)
+                {
+                    if (item.SpotLetter.ToLower() == row && item.SpotNumber == column)
+                    {
+                        item.Status = Enums.GridSpotStatus.Hit;
+                        Console.WriteLine("This is a hit"); 
+                    }
+                }
+                else
+                {
+                    if (item.SpotLetter.ToLower() == row && item.SpotNumber == column)
+                    {
+                        item.Status = Enums.GridSpotStatus.Miss;
+                    }
+                }
+            }
         }
     }
 }
