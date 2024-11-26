@@ -21,6 +21,8 @@ namespace BattleshipLite
 
             do
             {
+                Console.Clear();
+                Console.WriteLine(activePlayer.UserName);
                 //Display grid from activePlayer on where they fired
                 DisplayShotGrid(activePlayer);
 
@@ -46,6 +48,7 @@ namespace BattleshipLite
                 {
                     winner = activePlayer;
                 }
+                
             } while (winner == null);
 
             IdentifyWinner(winner);
@@ -115,15 +118,15 @@ namespace BattleshipLite
                 }
                 else if (gridSpot.Status == Enums.GridSpotStatus.Hit)
                 {
-                    Console.Write(" X ");
+                    Console.Write("X ");
                 }
                 else if (gridSpot.Status == Enums.GridSpotStatus.Miss)
                 {
-                    Console.Write(" O ");
+                    Console.Write("O ");
                 }
                 else
                 {
-                    Console.Write(" ? ");
+                    Console.Write("? ");
                 }
             }
         }
@@ -166,13 +169,11 @@ namespace BattleshipLite
 
         private static void PlaceShip(PlayerInfoModel model)
         {
-            Console.WriteLine($"Initial count: {model.ShipLocations.Count}"); //
+            //Console.WriteLine($"Initial count: {model.ShipLocations.Count}"); //
             do
             {
                 Console.Write($"Where do you want to place ship number {model.ShipLocations.Count + 1}: ");
                 string location = Console.ReadLine();
-                
-                Console.WriteLine($"count: {model.ShipLocations.Count}"); //
 
                 bool isValidLocation = GameLogic.PlaceShip(model, location);
 

@@ -2,6 +2,7 @@
 using Microsoft.SqlServer.Server;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.IO.Ports;
 using System.Linq;
 using System.Text;
@@ -115,7 +116,10 @@ namespace BattleshipLiteLibrary
 
         public static int GetShotCount(PlayerInfoModel winner)
         {
-            throw new NotImplementedException();
+            //throw new NotImplementedException();
+            return winner.ShotCount;
+            
+            
         }
 
         public static (string row, int column) SplitShotIntoRowAndColumn(string shot)
@@ -148,6 +152,7 @@ namespace BattleshipLiteLibrary
             //throw new NotImplementedException();
             foreach (var item in opponent.ShipLocations)
             {
+                
                 string shotLocation = row + column.ToString();
                 //Console.WriteLine($"Shot Location is {shotLocation}");
                 if (item.ShipLocation == shotLocation)
@@ -170,7 +175,7 @@ namespace BattleshipLiteLibrary
                     if (item.SpotLetter.ToLower() == row && item.SpotNumber == column)
                     {
                         item.Status = Enums.GridSpotStatus.Hit;
-                        Console.WriteLine("This is a hit"); 
+                        activePlayer.ShotCount++;               //increase count by 1 if hit
                     }
                 }
                 else
@@ -178,6 +183,7 @@ namespace BattleshipLiteLibrary
                     if (item.SpotLetter.ToLower() == row && item.SpotNumber == column)
                     {
                         item.Status = Enums.GridSpotStatus.Miss;
+                        activePlayer.ShotCount++;               //increase count by 1 if hit
                     }
                 }
             }
