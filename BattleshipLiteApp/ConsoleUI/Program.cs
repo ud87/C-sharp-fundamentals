@@ -22,7 +22,7 @@ namespace BattleshipLite
             do
             {
                 Console.Clear();
-                Console.WriteLine(activePlayer.UserName);
+                Console.WriteLine($"Current Player: {activePlayer.UserName}");
                 //Display grid from activePlayer on where they fired
                 DisplayShotGrid(activePlayer);
 
@@ -89,6 +89,21 @@ namespace BattleshipLite
 
             //Record results
             GameLogic.MarkShotResult(activePlayer, row, column, isAHit);
+
+            DisplayShotResults(row, column, isAHit);
+        }
+
+        private static void DisplayShotResults(string row, int column, bool isAHit)
+        {
+            if (isAHit)
+            {
+                Console.WriteLine($"{ row }{ column } is a Hit!");
+            }
+            else
+            {
+                Console.WriteLine($"{row}{column} is a Miss!");
+            }
+            Console.ReadLine();
         }
 
         private static string AskForShot()
@@ -114,19 +129,19 @@ namespace BattleshipLite
                
                 if (gridSpot.Status == Enums.GridSpotStatus.Empty)
                 {
-                    Console.Write($"{gridSpot.SpotLetter}{gridSpot.SpotNumber}");
+                    Console.Write($" {gridSpot.SpotLetter}{gridSpot.SpotNumber} ");
                 }
                 else if (gridSpot.Status == Enums.GridSpotStatus.Hit)
                 {
-                    Console.Write("X ");
+                    Console.Write("  X ");
                 }
                 else if (gridSpot.Status == Enums.GridSpotStatus.Miss)
                 {
-                    Console.Write("O ");
+                    Console.Write("  O ");
                 }
                 else
                 {
-                    Console.Write("? ");
+                    Console.Write("  ? ");
                 }
             }
         }

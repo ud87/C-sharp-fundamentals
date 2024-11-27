@@ -127,7 +127,7 @@ namespace BattleshipLiteLibrary
             //split shot to row and column if length == 2 and second character is a digit
             if (shot.Length == 2 && char.IsDigit(shot[1])) 
             {
-                return (shot[0].ToString(), int.Parse(shot[1].ToString()));
+                return (shot[0].ToString().ToLower(), int.Parse(shot[1].ToString()));
             }
             else
             {
@@ -139,7 +139,7 @@ namespace BattleshipLiteLibrary
         {
             foreach (var item in activePlayer.ShotGrid)
             {
-                if (item.SpotLetter.ToLower() == row && item.SpotNumber == column)
+                if (item.SpotLetter.ToLower() == row.ToLower() && item.SpotNumber == column)
                 {
                     return true;
                 }
@@ -172,7 +172,7 @@ namespace BattleshipLiteLibrary
             {
                 if (isAHit)
                 {
-                    if (item.SpotLetter.ToLower() == row && item.SpotNumber == column)
+                    if (item.SpotLetter.ToLower() == row.ToLower() && item.SpotNumber == column)
                     {
                         item.Status = Enums.GridSpotStatus.Hit;
                         activePlayer.ShotCount++;               //increase count by 1 if hit
@@ -180,7 +180,7 @@ namespace BattleshipLiteLibrary
                 }
                 else
                 {
-                    if (item.SpotLetter.ToLower() == row && item.SpotNumber == column)
+                    if (item.SpotLetter.ToLower() == row.ToLower() && item.SpotNumber == column)
                     {
                         item.Status = Enums.GridSpotStatus.Miss;
                         activePlayer.ShotCount++;               //increase count by 1 if hit
