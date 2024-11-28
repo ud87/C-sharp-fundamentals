@@ -183,3 +183,18 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - put as much code as possible into class library
 - do not put user interface code to class library (for e.g. console.writeline and readline etc)
 
+## Module04ClassLibraryDemoExcercise
+- Try to make a console app without looking at the tutorial
+
+## Battleship app
+- Create a battleship console app
+- Use all the concepts up to module04
+- Follow tutorial and complete challenges
+- Complete methods challenges
+
+##Module06InheritanceDemo
+- Define inheritance (special class which can be passed down to other class)
+- When to use inheritance (whenever property is a relationship inheritance should be used)
+- When not to use inheritance (if a property does not apply we should not inherit it)
+- Cannot inherit directly from more than one class
+
