@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson03InterfaceExcercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A9484B5-EC35-4053-B529-B2379F97BD0C}|InterfaceExcercise\\InterfaceExcercise.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module06lesson03interfaceexcercise\\interfaceexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A9484B5-EC35-4053-B529-B2379F97BD0C}|InterfaceExcercise\\InterfaceExcercise.csproj|solutionrelative:interfaceexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson03InterfaceExcercise\\InterfaceExcercise\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExcercise\\Program.cs",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson03InterfaceExcercise\\InterfaceExcercise\\Program.cs",
+              "RelativeToolTip": "InterfaceExcercise\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T21:53:06.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

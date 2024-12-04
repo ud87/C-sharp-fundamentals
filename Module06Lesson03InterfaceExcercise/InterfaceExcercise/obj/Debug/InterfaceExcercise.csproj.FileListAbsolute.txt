@@ -1,0 +1,7 @@
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson03InterfaceExcercise\InterfaceExcercise\bin\Debug\InterfaceExcercise.exe.config
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson03InterfaceExcercise\InterfaceExcercise\bin\Debug\InterfaceExcercise.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson03InterfaceExcercise\InterfaceExcercise\bin\Debug\InterfaceExcercise.pdb
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson03InterfaceExcercise\InterfaceExcercise\obj\Debug\InterfaceExcercise.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson03InterfaceExcercise\InterfaceExcercise\obj\Debug\InterfaceExcercise.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson03InterfaceExcercise\InterfaceExcercise\obj\Debug\InterfaceExcercise.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson03InterfaceExcercise\InterfaceExcercise\obj\Debug\InterfaceExcercise.pdb
