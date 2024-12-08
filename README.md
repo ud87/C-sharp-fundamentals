@@ -198,3 +198,9 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - When not to use inheritance (if a property does not apply we should not inherit it)
 - Cannot inherit directly from more than one class
 
+##Module06Lesson04InheritanceMiniProject
+- Miniproject that uses inheritance and interface 
+- Interface can be used to connect non related items together
+
+
+
