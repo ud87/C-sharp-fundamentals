@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson04InheritanceInterfaceExtraExcercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{359AFAF0-E931-4E61-94F7-70631E3A6066}|InheritanceInterfaceExtraExcercise\\InheritanceInterfaceExtraExcercise.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module06lesson04inheritanceinterfaceextraexcercise\\inheritanceinterfaceextraexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{359AFAF0-E931-4E61-94F7-70631E3A6066}|InheritanceInterfaceExtraExcercise\\InheritanceInterfaceExtraExcercise.csproj|solutionrelative:inheritanceinterfaceextraexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson04InheritanceInterfaceExtraExcercise\\InheritanceInterfaceExtraExcercise\\Program.cs",
+              "RelativeDocumentMoniker": "InheritanceInterfaceExtraExcercise\\Program.cs",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson04InheritanceInterfaceExtraExcercise\\InheritanceInterfaceExtraExcercise\\Program.cs",
+              "RelativeToolTip": "InheritanceInterfaceExtraExcercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T12:17:39.58Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
