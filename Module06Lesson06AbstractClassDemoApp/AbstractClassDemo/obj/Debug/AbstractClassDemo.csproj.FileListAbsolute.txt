@@ -1,0 +1,7 @@
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson06AbstractClassDemoApp\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe.config
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson06AbstractClassDemoApp\AbstractClassDemo\bin\Debug\AbstractClassDemo.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson06AbstractClassDemoApp\AbstractClassDemo\bin\Debug\AbstractClassDemo.pdb
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson06AbstractClassDemoApp\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson06AbstractClassDemoApp\AbstractClassDemo\obj\Debug\AbstractClassDemo.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson06AbstractClassDemoApp\AbstractClassDemo\obj\Debug\AbstractClassDemo.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson06AbstractClassDemoApp\AbstractClassDemo\obj\Debug\AbstractClassDemo.pdb
