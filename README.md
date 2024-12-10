@@ -192,15 +192,24 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Follow tutorial and complete challenges
 - Complete methods challenges
 
-##Module06InheritanceDemo
+## Module06InheritanceDemo
 - Define inheritance (special class which can be passed down to other class)
 - When to use inheritance (whenever property is a relationship inheritance should be used)
 - When not to use inheritance (if a property does not apply we should not inherit it)
 - Cannot inherit directly from more than one class
 
-##Module06Lesson04InheritanceMiniProject
+## Module06Lesson04InheritanceMiniProject
 - Miniproject that uses inheritance and interface 
 - Interface can be used to connect non related items together
+
+## Module06Lesson05AccessModifiersDemoApp
+- Different types of modifiers and its usage
+
+## Module06Lesson06AbstractClassDemoApp
+-  How to create Abstract class
+
+## Module06Lesson07MethodOverRidingDemoApp
+- How to create method overiding
 
 
 
