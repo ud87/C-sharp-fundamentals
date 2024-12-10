@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson07MethodOverRidingDemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DC18311-3821-4391-91A1-B49460A3531C}|MethodOverRidingDemo\\MethodOverRidingDemo.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module06lesson07methodoverridingdemoapp\\methodoverridingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DC18311-3821-4391-91A1-B49460A3531C}|MethodOverRidingDemo\\MethodOverRidingDemo.csproj|solutionrelative:methodoverridingdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson07MethodOverRidingDemoApp\\MethodOverRidingDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MethodOverRidingDemo\\Program.cs",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson07MethodOverRidingDemoApp\\MethodOverRidingDemo\\Program.cs*",
+              "RelativeToolTip": "MethodOverRidingDemo\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T19:49:19.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
