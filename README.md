@@ -214,6 +214,9 @@ This app was created to implement learning from Module02Lesson02Variables and us
 ## Module06Lesson07MethodOverRidingDemoAppExcercise
 - Excercise to practise overiding
 
+## Module06Lesson08CardGameUIApp
+- Mini project to implement abstract, access modifier, enums
+
 
 
 

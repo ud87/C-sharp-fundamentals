@@ -1,0 +1,7 @@
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson08CardGameUIApp\CardGameUI\bin\Debug\CardGameUI.exe.config
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson08CardGameUIApp\CardGameUI\bin\Debug\CardGameUI.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson08CardGameUIApp\CardGameUI\bin\Debug\CardGameUI.pdb
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson08CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson08CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson08CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson08CardGameUIApp\CardGameUI\obj\Debug\CardGameUI.pdb
