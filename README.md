@@ -217,6 +217,19 @@ This app was created to implement learning from Module02Lesson02Variables and us
 ## Module06Lesson08CardGameUIApp
 - Mini project to implement abstract, access modifier, enums
 
+## Module06Lesson09MethodOverloadApp
+- Method overload means having multiple methods with same name but different parameters
+- Can have two methods with same name as long as their signatures are different
+- Method overload allows us to have different configuration set up for a method 
+- method overload is ideal when
+	- performing same operation with different data types
+	- providing flexibility in input
+	- improving code readability and input
+
+
+
+ 
+
 
 
 
