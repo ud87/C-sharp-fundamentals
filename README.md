@@ -235,9 +235,13 @@ This app was created to implement learning from Module02Lesson02Variables and us
 	- step 2: Inside that static class create a static method. First parameter of method starts with "this" keyword
 	- step 3: Populate the method as required. Once complete method becomes and use it using dot notation (e.g. variable.ExtensionMethod())
 - Why and When to use extension class ?
-	- When you don't have access to source code or you don't own class but you want to add functionality
+	- When you don't have access to source code or you don't own class but you want to add functionality, e.g. extension method to add data to database
 	- To keep your code clean as you don't need to create subclasses or modify source code
 	- Make code more readable by calling methods directly on the objects they relate to
+
+## Module06Lesson10ExtensionMethodDemoExcercise
+- Create the following chain using extension methods person.SetDefaultAge().PrintInfo() 
+	- In this example default age has been set as 18 and provided as an optional parameter
 
  
 

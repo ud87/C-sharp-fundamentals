@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson10ExtensionMethodDemoExcercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE878289-9BCF-4BE8-977B-811EF0274497}|ExtensionMethodDemoExcercise\\ExtensionMethodDemoExcercise.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module06lesson10extensionmethoddemoexcercise\\extensionmethoddemoexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE878289-9BCF-4BE8-977B-811EF0274497}|ExtensionMethodDemoExcercise\\ExtensionMethodDemoExcercise.csproj|solutionrelative:extensionmethoddemoexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson10ExtensionMethodDemoExcercise\\ExtensionMethodDemoExcercise\\Program.cs",
+              "RelativeDocumentMoniker": "ExtensionMethodDemoExcercise\\Program.cs",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson10ExtensionMethodDemoExcercise\\ExtensionMethodDemoExcercise\\Program.cs*",
+              "RelativeToolTip": "ExtensionMethodDemoExcercise\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T22:46:43.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
