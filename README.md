@@ -226,7 +226,18 @@ This app was created to implement learning from Module02Lesson02Variables and us
 	- providing flexibility in input
 	- improving code readability and input
 
-
+## Module06Lesson10ExtensionMethodDemo
+- What is a extension method ?
+	- Way to add additional functionality to an existing class without modifying its source code or creating a new derived class.
+	- Simple analogy: Shoes which is functional but you want it to be waterproof. Instead of creating shoes from scratch you can just add a waterproof spray. Waterproof spray is like an extension method.
+- How to create an extension method ?
+	- step 1: Create a static class (helper container)
+	- step 2: Inside that static class create a static method. First parameter of method starts with "this" keyword
+	- step 3: Populate the method as required. Once complete method becomes and use it using dot notation (e.g. variable.ExtensionMethod())
+- Why and When to use extension class ?
+	- When you don't have access to source code or you don't own class but you want to add functionality
+	- To keep your code clean as you don't need to create subclasses or modify source code
+	- Make code more readable by calling methods directly on the objects they relate to
 
  
 
