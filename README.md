@@ -243,6 +243,9 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - Create the following chain using extension methods person.SetDefaultAge().PrintInfo() 
 	- In this example default age has been set as 18 and provided as an optional parameter
 
+## Module06Lesson11ExtensionMethodsMiniProject
+- MiniProject to practise extension method and method overloading
+
  
 
 
