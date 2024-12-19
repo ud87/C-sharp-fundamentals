@@ -246,6 +246,8 @@ This app was created to implement learning from Module02Lesson02Variables and us
 ## Module06Lesson11ExtensionMethodsMiniProject
 - MiniProject to practise extension method and method overloading
 
+## Module06Lesson11ExtensionMethodsMiniProject2
+- Practice extension method and method overloading without looking at solution
  
 
 
