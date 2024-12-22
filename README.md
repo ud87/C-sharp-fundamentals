@@ -256,7 +256,21 @@ This app was created to implement learning from Module02Lesson02Variables and us
 	- We need generics to ensure type safetey i.e. ensure compile time type checking and prevent runtime errors
 	- It also allows us to write one method or class that works with any data type
 	- It also increases the performance as it avoids boxing/ unboxing for value types 
- 
 - How do we create Generics ?
 	- We create generics by adding <T> to class and methods
+
+##Module06Lesson12GenericsDemoExcercise
+- Excercise to practice Generics
+
+##Module06Lesson13EventDemoApp
+- What is an event Listener ?
+	- Event listener listens to changes in state and can reports back so we know state has changed. e.g. if we are loading a lot of data in the background and wanted to let the user know when done then we can use event listener.
+- Why do we need event listener ?
+	- Whenever the state of object changes we will need event listener to notify the state has changed.
+- How do we create an even listener
+	- There is three parts to event handlers. 
+		- Declaration - must be done in class where the model will be invoked, syntax - public EventHandler<type> EventHandlerName
+		- Listener - must be done in Main class, syntax - Object.EventHandlerName += EventHandler_Name
+		- Invokation - must be done inside method where it is to be triggered upon meeting certain condition, syntax EventHandlerName?Invoke(this, message)
+
 	
