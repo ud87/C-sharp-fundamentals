@@ -271,7 +271,6 @@ This app was created to implement learning from Module02Lesson02Variables and us
         	}
     	}
 	- method example: 
-    	``` csharp
 	public static void Print<T, U>(T input1, U input2)  //we can also have more than 1 generic type
     	{
         	Console.WriteLine(input1)
@@ -279,7 +278,6 @@ This app was created to implement learning from Module02Lesson02Variables and us
     	}
 
 	- interface example:
-    	``` csharp
 	public interface IImportance<T>
     	{
         	T MostImportant(T a, T b);
@@ -307,7 +305,6 @@ This app was created to implement learning from Module02Lesson02Variables and us
 	}
  
 	- constrains example:
-	```csharp
 	public class SampleClass<T> whereT : class, new()   //this must have a class and an empty constructor
     	{
         
