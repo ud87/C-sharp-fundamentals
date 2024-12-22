@@ -260,19 +260,21 @@ This app was created to implement learning from Module02Lesson02Variables and us
 - How do we create Generics ?
 	- We create generics by adding <T> to class and methods
 	- class example:
-    	```
-	public class GenericHelper<T>
-    	{  
-        	private T item;
+    	
+	```
+ 	public class GenericHelper<T>
+	{  
+ 		private T item;
         
-        	public T GetItem()  //No need to declare <T> as it has already been declared in the class
+        	public T GetItem()
         	{ 
             	return item
         	}
     	}
 	```
+ 
 	- method example: 
-	```
+	```csharp
 	public static void Print<T, U>(T input1, U input2)  //we can also have more than 1 generic type
     	{
         	Console.WriteLine(input1)
@@ -281,10 +283,10 @@ This app was created to implement learning from Module02Lesson02Variables and us
 	```
 	
 	- interface example:
-	```
+	```csharp
 	public interface IImportance<T>
-    	{
-        	T MostImportant(T a, T b);
+ 	{
+ 		T MostImportant(T a, T b);
     	}
 
     	public class EvaluateImportance :  IImportance<int>, IImportance<string>    //implement in a class
@@ -298,7 +300,7 @@ This app was created to implement learning from Module02Lesson02Variables and us
             		else return b;
         	}
 
-        	public string MostImportant(string a, string b)
+ 		public string MostImportant(string a, string b)
         	{
             		if (a.Length > b.Length)
             		{
@@ -310,7 +312,7 @@ This app was created to implement learning from Module02Lesson02Variables and us
 	```
  
 	- constrains example:
-	```
+	```csharp
 	public class SampleClass<T> whereT : class, new()   //this must have a class and an empty constructor
     	{
         
