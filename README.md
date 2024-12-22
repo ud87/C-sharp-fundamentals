@@ -269,16 +269,16 @@ This app was created to implement learning from Module02Lesson02Variables and us
         	{ 
             	return item
         	}
-    	}
+    	}```
 	- method example: 
-	public static void Print<T, U>(T input1, U input2)  //we can also have more than 1 generic type
+	```public static void Print<T, U>(T input1, U input2)  //we can also have more than 1 generic type
     	{
         	Console.WriteLine(input1)
         	Console.WriteLine(input2)
-    	}
+    	}```
 
 	- interface example:
-	public interface IImportance<T>
+	```public interface IImportance<T>
     	{
         	T MostImportant(T a, T b);
     	}
@@ -302,13 +302,13 @@ This app was created to implement learning from Module02Lesson02Variables and us
             		}
             		else return b;
     		}
-	}
+	}```
  
 	- constrains example:
-	public class SampleClass<T> whereT : class, new()   //this must have a class and an empty constructor
+	```public class SampleClass<T> whereT : class, new()   //this must have a class and an empty constructor
     	{
         
-    	}
+    	}```
  
 
 
