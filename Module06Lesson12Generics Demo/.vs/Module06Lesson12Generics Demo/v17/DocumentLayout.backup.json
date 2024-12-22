@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson12Generics Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC57A75-9D84-449D-95B3-7CB1F3BD929D}|Generics Demo\\Generics Demo.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module06lesson12generics demo\\generics demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BEC57A75-9D84-449D-95B3-7CB1F3BD929D}|Generics Demo\\Generics Demo.csproj|solutionrelative:generics demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson12Generics Demo\\Generics Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Generics Demo\\Program.cs",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson12Generics Demo\\Generics Demo\\Program.cs",
+              "RelativeToolTip": "Generics Demo\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T10:18:58.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

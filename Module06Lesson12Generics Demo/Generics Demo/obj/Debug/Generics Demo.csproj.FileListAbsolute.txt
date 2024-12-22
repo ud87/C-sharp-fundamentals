@@ -1,0 +1,7 @@
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson12Generics Demo\Generics Demo\bin\Debug\Generics Demo.exe.config
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson12Generics Demo\Generics Demo\bin\Debug\Generics Demo.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson12Generics Demo\Generics Demo\bin\Debug\Generics Demo.pdb
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson12Generics Demo\Generics Demo\obj\Debug\Generics Demo.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson12Generics Demo\Generics Demo\obj\Debug\Generics Demo.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson12Generics Demo\Generics Demo\obj\Debug\Generics Demo.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson12Generics Demo\Generics Demo\obj\Debug\Generics Demo.pdb

@@ -248,6 +248,66 @@ This app was created to implement learning from Module02Lesson02Variables and us
 
 ## Module06Lesson11ExtensionMethodsMiniProject2
 - Practice extension method and method overloading without looking at solution
+
+## Module06Lesson12GenericsDemo
+- What is a generic item ?
+	- Generic item allows us to define classes, methods, and data structures that can operate with any data type while maintaining type safety. So this works with any datatype we provide.
+- Why do we need Generics ?
+	- We need generics to ensure type safetey i.e. ensure compile time type checking and prevent runtime errors
+	- It also allows us to write one method or class that works with any data type
+	- It also increases the performance as it avoids boxing/ unboxing for value types 
+ 
+- How do we create Generics ?
+	- We create generics by adding <T> to class and methods
+	- class example:
+    	`public class GenericHelper<T>
+    	{  
+        	private T item;
+        
+        	public T GetItem()  //No need to declare <T> as it has already been declared in the class
+        	{ 
+            	return item
+        	}
+    	}`
+	- method example: 
+    	`public static void Print<T, U>(T input1, U input2)  //we can also have more than 1 generic type
+    	{
+        	Console.WriteLine(input1)
+        	Console.WriteLine(input2)
+    	}`
+
+	- interface example:
+    	`public interface IImportance<T>
+    	{
+        	T MostImportant(T a, T b);
+    	}
+
+    	public class EvaluateImportance :  IImportance<int>, IImportance<string>    //implement in a class
+    	{
+        	public int MostImportant(int a, int b)
+        	{
+            		if (a > b)
+            		{
+                		return a;
+            		}
+            		else return b;
+        	}
+
+        	public string MostImportant(string a, string b)
+        	{
+            		if (a.Length > b.Length)
+            		{
+                		return a;
+            		}
+            		else return b;
+    		}
+	}`
+ 
+	- constrains example:
+	`public class SampleClass<T> whereT : class, new()   //this must have a class and an empty constructor
+    	{
+        
+    	}`
  
 
 
