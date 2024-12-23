@@ -1,0 +1,7 @@
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson13EventDemoAppExcercise\EventDemoAppExcercise\bin\Debug\EventDemoAppExcercise.exe.config
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson13EventDemoAppExcercise\EventDemoAppExcercise\bin\Debug\EventDemoAppExcercise.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson13EventDemoAppExcercise\EventDemoAppExcercise\bin\Debug\EventDemoAppExcercise.pdb
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson13EventDemoAppExcercise\EventDemoAppExcercise\obj\Debug\EventDemoAppExcercise.csproj.AssemblyReference.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson13EventDemoAppExcercise\EventDemoAppExcercise\obj\Debug\EventDemoAppExcercise.csproj.CoreCompileInputs.cache
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson13EventDemoAppExcercise\EventDemoAppExcercise\obj\Debug\EventDemoAppExcercise.exe
+D:\Programming\C sharp Projects\Csharp Fundamentals\Module06Lesson13EventDemoAppExcercise\EventDemoAppExcercise\obj\Debug\EventDemoAppExcercise.pdb

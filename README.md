@@ -273,4 +273,7 @@ This app was created to implement learning from Module02Lesson02Variables and us
 		- Listener - must be done in Main class, syntax - Object.EventHandlerName += EventHandler_Name
 		- Invokation - must be done inside method where it is to be triggered upon meeting certain condition, syntax EventHandlerName?Invoke(this, message)
 
+##Module06Lesson13EventDemoAppExcercise
+- Create an event in a class and then consume that class. Attach a listener to the event and have it wire to the console
+	- Event listener created to notify user if stock ISA portfolio is greater than 20k.
 	
