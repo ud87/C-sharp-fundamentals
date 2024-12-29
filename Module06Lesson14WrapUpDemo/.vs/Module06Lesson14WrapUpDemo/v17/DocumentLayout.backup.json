@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{B15AB05F-C285-4B75-B39B-16830D9652A9}|WrapUpDemo\\WrapUpDemo.csproj|solutionrelative:wrapupdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B15AB05F-C285-4B75-B39B-16830D9652A9}|WrapUpDemo\\WrapUpDemo.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module06lesson14wrapupdemo\\wrapupdemo\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B15AB05F-C285-4B75-B39B-16830D9652A9}|WrapUpDemo\\WrapUpDemo.csproj|solutionrelative:wrapupdemo\\carmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B15AB05F-C285-4B75-B39B-16830D9652A9}|WrapUpDemo\\WrapUpDemo.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module06lesson14wrapupdemo\\wrapupdemo\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B15AB05F-C285-4B75-B39B-16830D9652A9}|WrapUpDemo\\WrapUpDemo.csproj|solutionrelative:wrapupdemo\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,19 +22,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 242,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "CarModel.cs",
+              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson14WrapUpDemo\\WrapUpDemo\\CarModel.cs",
+              "RelativeDocumentMoniker": "WrapUpDemo\\CarModel.cs",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson14WrapUpDemo\\WrapUpDemo\\CarModel.cs",
+              "RelativeToolTip": "WrapUpDemo\\CarModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T14:21:09.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "PersonModel.cs",
               "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson14WrapUpDemo\\WrapUpDemo\\PersonModel.cs",
               "RelativeDocumentMoniker": "WrapUpDemo\\PersonModel.cs",
               "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson14WrapUpDemo\\WrapUpDemo\\PersonModel.cs",
               "RelativeToolTip": "WrapUpDemo\\PersonModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T22:10:51.094Z",
+              "WhenOpened": "2024-12-29T14:21:08.051Z",
               "EditorCaption": ""
             },
             {
@@ -41,9 +58,9 @@
               "RelativeDocumentMoniker": "WrapUpDemo\\Program.cs",
               "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module06Lesson14WrapUpDemo\\WrapUpDemo\\Program.cs",
               "RelativeToolTip": "WrapUpDemo\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T22:05:03.5Z",
+              "WhenOpened": "2024-12-29T14:20:50.93Z",
               "EditorCaption": ""
             }
           ]
