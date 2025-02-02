@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson04UnitTestDemoLibraryExcerciseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBE89E2-EBF7-47D9-A6B4-900E43FA93A6}|FizzBuzzUnitTest\\FizzBuzzUnitTest.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module07lesson04unittestdemolibraryexcerciseapp\\fizzbuzzunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBE89E2-EBF7-47D9-A6B4-900E43FA93A6}|FizzBuzzUnitTest\\FizzBuzzUnitTest.csproj|solutionrelative:fizzbuzzunittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3DC9EB8-4F4C-46F6-8377-AD014AD7A476}|Module07Lesson04UnitTestDemoLibraryExcercise\\Module07Lesson04UnitTestDemoLibraryExcercise.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module07lesson04unittestdemolibraryexcerciseapp\\module07lesson04unittestdemolibraryexcercise\\fizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3DC9EB8-4F4C-46F6-8377-AD014AD7A476}|Module07Lesson04UnitTestDemoLibraryExcercise\\Module07Lesson04UnitTestDemoLibraryExcercise.csproj|solutionrelative:module07lesson04unittestdemolibraryexcercise\\fizzbuzz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 242,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson04UnitTestDemoLibraryExcerciseApp\\FizzBuzzUnitTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "FizzBuzzUnitTest\\UnitTest1.cs",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson04UnitTestDemoLibraryExcerciseApp\\FizzBuzzUnitTest\\UnitTest1.cs",
+              "RelativeToolTip": "FizzBuzzUnitTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:36:23.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FizzBuzz.cs",
+              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson04UnitTestDemoLibraryExcerciseApp\\Module07Lesson04UnitTestDemoLibraryExcercise\\FizzBuzz.cs",
+              "RelativeDocumentMoniker": "Module07Lesson04UnitTestDemoLibraryExcercise\\FizzBuzz.cs",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson04UnitTestDemoLibraryExcerciseApp\\Module07Lesson04UnitTestDemoLibraryExcercise\\FizzBuzz.cs",
+              "RelativeToolTip": "Module07Lesson04UnitTestDemoLibraryExcercise\\FizzBuzz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T21:09:23.423Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

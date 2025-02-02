@@ -287,3 +287,11 @@ This app was created to implement learning from Module02Lesson02Variables and us
 	- Arrange: Instantiate a class
 	- Act: Call upon the method to be tested
 	- Assert: Compare the expected and actual 	
+
+##Module07Lesson04UnitTestDemoLibraryExcerciseApp
+- Create a fizzbuzz class library with a method
+	- that returns Fizz if divisible by 3
+	- that returns Buzz if divisible by 5
+	- that returns FizzBuzz if divisible by 3 & 5
+	- else that returns string of the number
+- Create unit test using XUnit 
