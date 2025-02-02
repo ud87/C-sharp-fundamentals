@@ -276,4 +276,14 @@ This app was created to implement learning from Module02Lesson02Variables and us
 ##Module06Lesson13EventDemoAppExcercise
 - Create an event in a class and then consume that class. Attach a listener to the event and have it wire to the console
 	- Event listener created to notify user if stock ISA portfolio is greater than 20k.
-	
+
+##Module07Lesson04UnitTestDemoLibraryApp
+- Unit test using XUnit
+- Unit test tests is only intended to test one unit of work (i.e. one method)
+- Unit test only tests public methods
+- You should not test your dependencies, it must be independent of email, database, we just want to test the logic
+- Use [Fact] if you only want to test once, if you want to run multiple tests use [Theory] and [InlineData(params)]
+- Unit test should have these features
+	- Arrange: Instantiate a class
+	- Act: Call upon the method to be tested
+	- Assert: Compare the expected and actual 	
