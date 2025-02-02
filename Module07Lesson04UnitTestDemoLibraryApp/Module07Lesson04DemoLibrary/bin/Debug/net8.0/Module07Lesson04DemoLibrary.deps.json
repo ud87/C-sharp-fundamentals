@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Module07Lesson04DemoLibrary/1.0.0": {
+        "runtime": {
+          "Module07Lesson04DemoLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Module07Lesson04DemoLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
