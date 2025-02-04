@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module07Lesson05ClassLibraryUnitTestExcercise", "Module07Lesson05ClassLibraryUnitTestExcercise\Module07Lesson05ClassLibraryUnitTestExcercise.csproj", "{B6B9E5C8-A4FD-4E17-ABC7-0E607B2B02E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathLibrary", "MathLibrary\MathLibrary.csproj", "{A9DAAE2A-A64E-47D0-8A41-93EF25CBB430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "MathOperationsUnitTest\UnitTest.csproj", "{31AF6737-4C8D-4DD0-A781-3F3C6F1D5309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6B9E5C8-A4FD-4E17-ABC7-0E607B2B02E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B9E5C8-A4FD-4E17-ABC7-0E607B2B02E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B9E5C8-A4FD-4E17-ABC7-0E607B2B02E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B9E5C8-A4FD-4E17-ABC7-0E607B2B02E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9DAAE2A-A64E-47D0-8A41-93EF25CBB430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9DAAE2A-A64E-47D0-8A41-93EF25CBB430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9DAAE2A-A64E-47D0-8A41-93EF25CBB430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9DAAE2A-A64E-47D0-8A41-93EF25CBB430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31AF6737-4C8D-4DD0-A781-3F3C6F1D5309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31AF6737-4C8D-4DD0-A781-3F3C6F1D5309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31AF6737-4C8D-4DD0-A781-3F3C6F1D5309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31AF6737-4C8D-4DD0-A781-3F3C6F1D5309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

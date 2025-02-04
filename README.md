@@ -295,3 +295,8 @@ This app was created to implement learning from Module02Lesson02Variables and us
 	- that returns FizzBuzz if divisible by 3 & 5
 	- else that returns string of the number
 - Create unit test using XUnit 
+
+##Module07Lesson05ClassLibraryUnitTestExcerciseApp
+- Create a math operation class library 
+	- that adds, subtracts, multiplies, divides two numbers
+- Create unit test using XUnit
