@@ -16,7 +16,7 @@ namespace UnitTest
         [InlineData(1, 2, "+", 3)]
         [InlineData(1, 2, "-", -1)]
         [InlineData(1, 2, "*", 2)]
-        [InlineData(1, 2, "/", 0.5)]
+        [InlineData(1, 0, "/", 0.5)]
         public void TestMathOperations(int x, int y, string op, int expected)
         {
             int actual;

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson05ClassLibraryUnitTestExcerciseApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31AF6737-4C8D-4DD0-A781-3F3C6F1D5309}|MathOperationsUnitTest\\UnitTest.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module07lesson05classlibraryunittestexcerciseapp\\mathoperationsunittest\\mathoperationsunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AF6737-4C8D-4DD0-A781-3F3C6F1D5309}|MathOperationsUnitTest\\UnitTest.csproj|solutionrelative:mathoperationsunittest\\mathoperationsunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6B9E5C8-A4FD-4E17-ABC7-0E607B2B02E3}|Module07Lesson05ClassLibraryUnitTestExcercise\\Module07Lesson05ClassLibraryUnitTestExcercise.csproj|d:\\programming\\c sharp projects\\csharp fundamentals\\module07lesson05classlibraryunittestexcerciseapp\\module07lesson05classlibraryunittestexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6B9E5C8-A4FD-4E17-ABC7-0E607B2B02E3}|Module07Lesson05ClassLibraryUnitTestExcercise\\Module07Lesson05ClassLibraryUnitTestExcercise.csproj|solutionrelative:module07lesson05classlibraryunittestexcercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 242,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "MathOperationsUnitTest.cs",
+              "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson05ClassLibraryUnitTestExcerciseApp\\MathOperationsUnitTest\\MathOperationsUnitTest.cs",
+              "RelativeDocumentMoniker": "MathOperationsUnitTest\\MathOperationsUnitTest.cs",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson05ClassLibraryUnitTestExcerciseApp\\MathOperationsUnitTest\\MathOperationsUnitTest.cs",
+              "RelativeToolTip": "MathOperationsUnitTest\\MathOperationsUnitTest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T21:10:39.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MathOperations.cs",
               "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson05ClassLibraryUnitTestExcerciseApp\\MathLibrary\\MathOperations.cs",
               "RelativeDocumentMoniker": "MathLibrary\\MathOperations.cs",
@@ -35,13 +52,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson05ClassLibraryUnitTestExcerciseApp\\Module07Lesson05ClassLibraryUnitTestExcercise\\Program.cs",
               "RelativeDocumentMoniker": "Module07Lesson05ClassLibraryUnitTestExcercise\\Program.cs",
-              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson05ClassLibraryUnitTestExcerciseApp\\Module07Lesson05ClassLibraryUnitTestExcercise\\Program.cs*",
-              "RelativeToolTip": "Module07Lesson05ClassLibraryUnitTestExcercise\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "ToolTip": "D:\\Programming\\C sharp Projects\\Csharp Fundamentals\\Module07Lesson05ClassLibraryUnitTestExcerciseApp\\Module07Lesson05ClassLibraryUnitTestExcercise\\Program.cs",
+              "RelativeToolTip": "Module07Lesson05ClassLibraryUnitTestExcercise\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T18:02:17.988Z",
               "EditorCaption": ""
